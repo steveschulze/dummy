@@ -1,1 +1,1 @@
-* [YYYY-MM-DD](YYYY-MMD-DD.md)
+* [YYYY-MM-DD](YYYY-MM-DD.md)
