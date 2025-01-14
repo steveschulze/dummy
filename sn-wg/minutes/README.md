@@ -1,1 +1,1 @@
-* [YYYY-MM-DD](YYYY-MMD-DD.md)
+* [YYYY-MM-DD](dummy/sn-wg/minutes/YYYY-MMD-DD.md)
